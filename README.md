@@ -1,5 +1,5 @@
 # flutter-imc
-IMC app using crossplatform usando Bloc
+IMC app multiplataformas usando Bloc
 
 # Ios APP
 
